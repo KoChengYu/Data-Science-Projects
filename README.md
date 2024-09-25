@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Machine Learning and Statistical Modeling
+Machine Learning, Statistical Modeling, and Econometrics
